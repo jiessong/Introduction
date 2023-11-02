@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jesslikecat
+- 👋 Hi, I’m @Jie Song
 - 👀 I’m interested in photography
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on ...
