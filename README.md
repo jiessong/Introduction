@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Jie Song
-- 👀 I’m interested in coding, photography ...
-- 💞️ I’m looking to collaborate on Web Design
+- 👀 I’m a software engineer and data entheustic ...
 - 📫 How to reach me: jies_2408@126.com
 
 <!---
